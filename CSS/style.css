@@ -4,5 +4,5 @@ body{
 
 .hero{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('../Imagem/banner.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(175, 203, 255, 0.7),rgba(131, 102, 102, 0.219)), url('../Imagem/banner.jpg') center/cover no-repeat;
 }
